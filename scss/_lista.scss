@@ -1,0 +1,19 @@
+
+ul{
+    list-style: none;
+    background: #41f36e;
+    padding: 10px;
+}
+
+    li{
+        display: flex;
+        flex-flow:row wrap-reverse;
+        align-items: baseline;
+        text-align: center;
+}
+
+        img{
+            width:100px;
+            height:100px;
+            
+        }
